@@ -1,0 +1,8 @@
+C:\Users\jorda\Documents\Visual Studio 2015\Projects\BBCRssFeed\BBCRssFeed\bin\Debug\BBCRssFeed.exe.config
+C:\Users\jorda\Documents\Visual Studio 2015\Projects\BBCRssFeed\BBCRssFeed\bin\Debug\BBCRssFeed.exe
+C:\Users\jorda\Documents\Visual Studio 2015\Projects\BBCRssFeed\BBCRssFeed\bin\Debug\BBCRssFeed.pdb
+C:\Users\jorda\Documents\Visual Studio 2015\Projects\BBCRssFeed\BBCRssFeed\obj\Debug\BBCRssFeed.csprojResolveAssemblyReference.cache
+C:\Users\jorda\Documents\Visual Studio 2015\Projects\BBCRssFeed\BBCRssFeed\obj\Debug\BBCRssFeed.exe
+C:\Users\jorda\Documents\Visual Studio 2015\Projects\BBCRssFeed\BBCRssFeed\obj\Debug\BBCRssFeed.pdb
+C:\Users\jorda\Documents\Visual Studio 2015\Projects\BBCRssFeed\BBCRssFeed\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jorda\Documents\Visual Studio 2015\Projects\BBCRssFeed\BBCRssFeed\bin\Debug\Newtonsoft.Json.xml
